@@ -1,6 +1,6 @@
 < [Home](https://github.com/SeanOhAileasa) | [README](https://github.com/SeanOhAileasa/cdp-cloud/blob/main/README.md) >
 
-## CompTIA Cloud+ - Course Material 2022
+## CompTIA Cloud+
 
 CompTIA Cloud+ self-study course material.
 
@@ -13,5 +13,9 @@ Recommend viewing using the ``nbviewer`` links below (click on the associated ``
 ### Topic: ``Review/Summary``
 
 [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud/blob/main/cdp.ipynb)
+
+### Cloud Architecture and Design ✅ 13%
+
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud/blob/main/cdp.ipynb#14)
 
 ## END
